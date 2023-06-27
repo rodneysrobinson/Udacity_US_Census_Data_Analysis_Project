@@ -1,4 +1,4 @@
-The purpose of this project is to create visualizations to reveal insights from a data set. The data visualizations should tell a story or highlight patterns in the data set. Ypor project should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+The purpose of this project is to create visualizations to reveal insights from a data set. The data visualizations should tell a story or highlight patterns in the data set. This project should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 
 There are 3 different data sets you can choose from:
 
