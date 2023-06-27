@@ -12,10 +12,10 @@ This project analyzes the US Census Demographic Data from a Kaggle dataset, it i
 
 View visualizations at the following links:
 
-https://public.tableau.com/app/profile/rodney.robinson/viz/IncomePerCapitaandPoverty-Dashboard/IncomePerCapitaandPoverty
+[Income Per Capita and Poverty - Dashboard](https://public.tableau.com/app/profile/rodney.robinson/viz/IncomePerCapitaandPoverty-Dashboard/IncomePerCapitaandPoverty)
 
-https://public.tableau.com/app/profile/rodney.robinson/viz/IncomePerCapitaandEmployment-Dashboard/IncomePerCapitaandEmployment
+[Income Per Capita and Employment - Dashboard](https://public.tableau.com/app/profile/rodney.robinson/viz/IncomePerCapitaandEmployment-Dashboard/IncomePerCapitaandEmployment)
 
-https://public.tableau.com/app/profile/rodney.robinson/viz/DistributionofEthnicitybyState-Dashboard/DistributionofEthnicitybyState
+[Distribution of Ethnicity by State - Dashboard](https://public.tableau.com/app/profile/rodney.robinson/viz/DistributionofEthnicitybyState-Dashboard/DistributionofEthnicitybyState)
 
-https://public.tableau.com/app/profile/rodney.robinson/viz/DistributionofEthnicitybyCounty/DistributionofEthnicitybyCounty
+[Distribution of Ethnicity by County](https://public.tableau.com/app/profile/rodney.robinson/viz/DistributionofEthnicitybyCounty/DistributionofEthnicitybyCounty)
