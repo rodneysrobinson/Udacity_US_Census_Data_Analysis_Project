@@ -10,7 +10,7 @@ Youtube Data from the US
 
 This project analyzes the US Census Demographic Data from a Kaggle dataset, it includes the census data for all counties in 2015. You can find the dataset at https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data?select=acs2015_county_data.csv. Project requirement is to create three visualizations.
 
-View visualizations at the followint links:
+View visualizations at the following links:
 
 https://public.tableau.com/app/profile/rodney.robinson/viz/IncomePerCapitaandPoverty-Dashboard/IncomePerCapitaandPoverty
 
